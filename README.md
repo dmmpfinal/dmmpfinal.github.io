@@ -1,5 +1,5 @@
 # dmmpfinal.github.io
-Página web PWA
+Ejemplo De Una Aplicación Multiplataforma
 
 https://dmmpfinal.github.io
 
