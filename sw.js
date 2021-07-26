@@ -17,7 +17,7 @@
  * cambios en tu sitio, para
  * después actualizar este archivo.
  */
-const CACHE = "dmmpfinal-1.0";
+const CACHE = "dmmpfinal-1.1";
 
 /** Archivos requeridos para que
  * la aplicación funcione fuera de
